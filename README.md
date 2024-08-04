@@ -16,7 +16,7 @@ cmake -S . -B build -G "Visual Studio 17 2022"
 pause
 ~~~
 
-#### 명령어 의미 분석
+#### 명령어 상세 분석
 `cmake -S . -B build -G "Visual Studio 17 2022"`
 
 `-S .` : 소스 디렉토리 지정(.로 했으니 현재 디렉토리 위치를 소스 디렉토리로 지정)   
