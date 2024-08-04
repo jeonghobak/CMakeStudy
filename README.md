@@ -1,5 +1,4 @@
-# CMakeStudy 
-
+## Common
 ### Visual Studio 프로젝트 구성을 위한 배치 파일 작성
 ~~~bat
 @echo off
