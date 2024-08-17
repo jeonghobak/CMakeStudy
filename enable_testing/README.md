@@ -1,8 +1,8 @@
 ## CTest, enable_testing()
 
-리눅스 환경에서 vscode 로 코딩 시 visual studio 의 test explorer 기능이 필요했고, 알아보니 CMake 에서도 비슷한 기능을 지원하여 학습하였다.
+리눅스 환경에서 VSCode로 코딩할 때 Visual Studio의 Test Explorer 기능이 필요했으며, CMake에서 비슷한 기능을 지원하는 것을 알게 되어 학습하였다.
 
-CTest는 CMake 프로젝트의 테스트 프레임워크로, CTest를 사용하면 CMake 프로젝트에서 단위테스트, 통합 테스트 및 기능 테스트를 쉽게 작성하고 실행할 수 있다.
+CTest는 CMake 프로젝트의 테스트 러너로, 이를 사용하면 CMake 프로젝트에서 단위 테스트, 통합 테스트 및 기능 테스트를 쉽게 작성하고 실행할 수 있다.
 
 본 학습에서는 CTest 를 이용해 gtest 를 실행시키는 예제를 구현한다.
 
