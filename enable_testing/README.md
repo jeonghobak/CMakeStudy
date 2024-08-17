@@ -76,3 +76,8 @@ add_test(NAME MathFunctionsTest COMMAND test_math_functions)
 테스트를 위한 실행 파일(gtest를 이용해 작성한 unittest)을 구성하고 add_test 명령어를 사용하여 테스트를 등록하였다.
 
 > 여기서 `COMMAND`는 테스트를 실행할 때 사용할 명령(실행 파일이나 스크립트)을 지정하는 역할을한다. 테스트 실행 파일 명칭은 `test_math_functions` 로 했으니 해당 명칭을 명령어 인자로 주면 되겠다.
+
+### 실행 결과
+![alt text](./image/result_1.PNG)
+ 
+![alt text](./image/result_2.PNG)
